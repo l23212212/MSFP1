@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Diego Macias Armenta \[23212212]; l23212212@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
